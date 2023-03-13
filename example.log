@@ -1,0 +1,9 @@
+2023-03-12 22:57:58,393 - mylogger - DEBUG - This is a debug message
+2023-03-12 22:57:58,394 - mylogger - INFO - This is an info message
+2023-03-12 22:57:58,394 - mylogger - WARNING - This is a warning message
+2023-03-12 22:57:58,395 - mylogger - ERROR - This is an error message
+2023-03-12 22:57:58,396 - mylogger - CRITICAL - This is a critical message
+2023-03-12 23:08:56,154 - mylogger - INFO - this is an info msg
+2023-03-12 23:08:56,155 - mylogger - WARNING - this is a warning msg
+2023-03-12 23:08:56,155 - mylogger - ERROR - this is an error msg
+2023-03-12 23:08:56,156 - mylogger - CRITICAL - this is a critical msg

@@ -1,0 +1,8 @@
+2023-03-08 21:39:19,448:INFO:Addition of 2 and 3 = 5
+2023-03-08 21:39:19,449:WARNING:Non-integer input provided.
+2023-03-08 21:40:04,883:INFO:Addition of 8 and 3 = 11
+2023-03-08 21:40:04,884:WARNING:Non-integer input provided.
+2023-03-10 11:35:10,792:INFO:Addition of 8 and 3 = 11
+2023-03-10 11:35:10,794:WARNING:input valid integer only.
+2023-03-10 12:19:50,506:INFO:Addition of 8 and 3 = 11
+2023-03-10 12:19:50,507:WARNING:input va integer only.

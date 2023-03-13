@@ -1,0 +1,5 @@
+2023-03-06 13:37:26,300 -- this is debug in w mode
+2023-03-06 13:37:26,301 -- this is info
+2023-03-06 13:37:26,301 -- this is warning
+2023-03-06 13:37:26,301 -- this is error
+2023-03-06 13:37:26,301 -- this is critical
